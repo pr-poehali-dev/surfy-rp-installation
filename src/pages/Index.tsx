@@ -65,11 +65,11 @@ const Index = () => {
           <div className="mt-16 space-y-4 text-muted-foreground">
             <p className="flex items-center justify-center gap-2">
               <Icon name="HardDrive" size={20} />
-              Требуется: 10 ГБ свободного места
+              Требуется: 5 ГБ свободного места
             </p>
             <p className="flex items-center justify-center gap-2">
               <Icon name="Monitor" size={20} />
-              Работает на Windows 10/11
+              Работает на Android
             </p>
           </div>
         </div>
