@@ -17,7 +17,7 @@ const Index = () => {
               SURFY RP
             </h1>
             <p className="text-xl md:text-2xl text-purple-200 font-medium">
-              Погрузись в мир роллплея
+              Погрузись в мир ролеплея
             </p>
           </div>
 
